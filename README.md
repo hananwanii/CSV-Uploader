@@ -1,6 +1,4 @@
-# Upload-CSV
-
--  Coding Ninjas Skill Test Assignment
+# CSV-Uploader
 
 <!-- TABLE OF CONTENTS -->
 <details>
